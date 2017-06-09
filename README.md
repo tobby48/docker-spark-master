@@ -3,7 +3,7 @@
 
 **PULL**
 ```
-docker push tobby48/spark-master:latest
+docker push tobby48/spark-master:2.1
 ```
 
 **RUN**
@@ -16,5 +16,5 @@ docker run -d \
 	--hostname xxx.xxx.xxx.xxx \
 	-p 8080:8080 \
 	-p 7077:7077 \
-	tobby48/spark-master:lastest
+	tobby48/spark-master:2.1
 ```
