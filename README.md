@@ -1,4 +1,5 @@
-# Spark 2.1 Master
+# Spark 2.1 master
+- if only to install standalone mode
 
 **PULL**
 ```
