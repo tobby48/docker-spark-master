@@ -1,5 +1,5 @@
 # Spark 2.1 master
-- if only to install standalone mode
+- Only to install standalone mode
 
 **PULL**
 ```
