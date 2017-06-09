@@ -3,7 +3,7 @@
 
 **PULL**
 ```
-docker push tobby48/spark-master:2.1
+docker pull tobby48/spark-master:2.1
 ```
 
 **RUN**
